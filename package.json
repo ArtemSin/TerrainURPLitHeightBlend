@@ -1,0 +1,24 @@
+{
+  "name": "com.sinica.terrain-urp-lit-height-blend",
+  "version": "1.0.0",
+  "displayName": "Terrain URP Lit Height Blend",
+  "description": "A custom Unity terrain shader for Universal Render Pipeline (URP) featuring height-based texture blending for realistic terrain surfaces.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "terrain",
+    "shader",
+    "urp",
+    "universal render pipeline",
+    "height blend",
+    "pbr"
+  ],
+  "author": {
+    "name": "sinica",
+    "url": "https://github.com/ArtemSin/TerrainURPLitHeightBlend"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "10.0.0"
+  }
+}
